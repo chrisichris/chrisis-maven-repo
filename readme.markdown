@@ -1,14 +1,14 @@
 A maven-repo for things not yet in one of the big repos
 =======================================================
-the repo url is 
-- for snapshot: http://chrisichris.github.com/chrisis-maven-repo/snapshots
 
-currently contained is
------------------------
+the repo url is: 
 
-yeti.jar
-groupId: org.yeti
-artifactId: yeti
-version: 0.1-SNAPSHOT
-(no dependencies)
++ for releases: <b>http://chrisichris.github.com/chrisis-maven-repo/releases</b>
++ for snapshot: <b>http://chrisichris.github.com/chrisis-maven-repo/snapshots</b>
+
+
+To see which artifacts are currently contained point your browser to the respective rep-url:
+
++ [artifaces in releases](http://chrisichris.github.com/chrisis-maven-repo/releases)
++ [artifacts in snapshots](http://chrisichris.github.com/chrisis-maven-repo/snapshots)
 
