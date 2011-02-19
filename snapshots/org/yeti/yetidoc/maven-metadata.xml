@@ -4,9 +4,10 @@
   <artifactId>yetidoc</artifactId>
   <version>0.1-SNAPSHOT</version>
   <versioning>
+    <release>0.1-SNAPSHOT</release>
     <versions>
       <version>0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20110210132747</lastUpdated>
+    <lastUpdated>20110219110536</lastUpdated>
   </versioning>
 </metadata>
