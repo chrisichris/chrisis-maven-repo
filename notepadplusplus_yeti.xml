@@ -1,0 +1,36 @@
+<NotepadPlus>
+    <UserLang name="yeti" ext="yeti">
+        <Settings>
+            <Global caseIgnored="no" />
+            <TreatAsSymbol comment="no" commentLine="no" />
+            <Prefix words1="no" words2="no" words3="no" words4="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&quot;00&quot;00</Keywords>
+            <Keywords name="Folder+">do if case try class ( { [</Keywords>
+            <Keywords name="Folder-">done fi esac yrt end ) } ]</Keywords>
+            <Keywords name="Operators">&apos; - ! # $ % &amp; ( ) * , . / : ; @ [ \ ] ^ { | } ~ + &lt; = &gt;</Keywords>
+            <Keywords name="Comment">1/* 1 2*/ 2 0//</Keywords>
+            <Keywords name="Words1">catch finally elif else var loop of throw load is as unsafely_as instanceof new with typedef synchronized import module abstract boolean byte char double extends float int long short this void</Keywords>
+            <Keywords name="Words2">false true</Keywords>
+            <Keywords name="Words3">map fold abs acos all and any apply array asin at atan avoid catSome clearHash clearArray collect concat concatMap const constains copy cos defined? delete deleteAll div drop empty? exp failWith filter find flip fold for forHash groupBy hash head id identityHash in indes insertHash in interate keys lazy length like list ln map&apos; map2 mapHash matchAll max maybe min negate none not nub nullptr? number on or pair peekObject pi pop push revAppend reverse same? setArrayCapacity setHashDefault shift shl shr sin slice sort sortBy splitAt splitBy sqrt strCapitalize strChar strEnds? strIndexOf strJoin strLastIndexOf strLastIndexOf&apos; strLeft strLeftOf strLength strLower strPad strReplace strRight strRightOf strSlice strSplit strStarts? strTrim strUncapitalize strUpper string substAll sum swapAt synchronized tail take takeWhile tan threadLocal withExit wrapArray xor</Keywords>
+            <Keywords name="Words4"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="408080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="408080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="004000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="408080" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="004000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="1" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="FF8000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
