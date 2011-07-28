@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.yeti</groupId>
-  <artifactId>yeti</artifactId>
+  <artifactId>yeti-lib</artifactId>
   <versioning>
     <versions>
       <version>0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20110728131016</lastUpdated>
+    <lastUpdated>20110728131017</lastUpdated>
   </versioning>
 </metadata>

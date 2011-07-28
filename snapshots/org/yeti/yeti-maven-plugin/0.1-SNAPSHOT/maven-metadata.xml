@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.yeti</groupId>
   <artifactId>yeti-maven-plugin</artifactId>
   <version>0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <buildNumber>8</buildNumber>
+      <timestamp>20110728.061950</timestamp>
+      <buildNumber>10</buildNumber>
     </snapshot>
-    <lastUpdated>20110723081523</lastUpdated>
+    <lastUpdated>20110728061950</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1-20110728.061950-10</value>
+        <updated>20110728061950</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-20110728.061950-10</value>
+        <updated>20110728061950</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1-20110728.061950-10</value>
+        <updated>20110728061950</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.1-20110728.061950-10</value>
+        <updated>20110728061950</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>
