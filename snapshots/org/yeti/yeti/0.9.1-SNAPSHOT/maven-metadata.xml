@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.yeti</groupId>
-  <artifactId>yeti-lib</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <artifactId>yeti</artifactId>
+  <version>0.9.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20111107.072916</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20111107.075013</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20111107072916</lastUpdated>
+    <lastUpdated>20111107075013</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1-20111107.072916-4</value>
-        <updated>20111107072916</updated>
+        <value>0.9.1-20111107.075013-1</value>
+        <updated>20111107075013</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1-20111107.072916-4</value>
-        <updated>20111107072916</updated>
+        <value>0.9.1-20111107.075013-1</value>
+        <updated>20111107075013</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
