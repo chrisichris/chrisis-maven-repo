@@ -11,7 +11,7 @@
             <Keywords name="Folder-">done fi esac yrt end ) } ]</Keywords>
             <Keywords name="Operators">&apos; - ! # $ % &amp; ( ) * , . / : ; @ [ \ ] ^ { | } ~ + &lt; = &gt;</Keywords>
             <Keywords name="Comment">1/* 1 2*/ 2 0//</Keywords>
-            <Keywords name="Words1">catch finally elif else var loop of throw load is as unsafely_as instanceof new with typedef synchronized import module abstract boolean byte char double extends float int long short this void</Keywords>
+            <Keywords name="Words1">catch finally then elif else var loop of throw load is as unsafely_as instanceof new with typedef synchronized import module abstract boolean byte char double extends float int long short this void</Keywords>
             <Keywords name="Words2">false true</Keywords>
             <Keywords name="Words3">map fold abs acos all and any apply array asin at atan avoid catSome clearHash clearArray collect concat concatMap const constains copy cos defined? delete deleteAll div drop empty? exp failWith filter find flip fold for forHash groupBy hash head id identityHash in indes insertHash in interate keys lazy length like list ln map&apos; map2 mapHash matchAll max maybe min negate none not nub nullptr? number on or pair peekObject pi pop push revAppend reverse same? setArrayCapacity setHashDefault shift shl shr sin slice sort sortBy splitAt splitBy sqrt strCapitalize strChar strEnds? strIndexOf strJoin strLastIndexOf strLastIndexOf&apos; strLeft strLeftOf strLength strLower strPad strReplace strRight strRightOf strSlice strSplit strStarts? strTrim strUncapitalize strUpper string substAll sum swapAt synchronized tail take takeWhile tan threadLocal withExit wrapArray xor</Keywords>
             <Keywords name="Words4"></Keywords>
