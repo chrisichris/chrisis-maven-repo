@@ -3,12 +3,13 @@
   <groupId>org.yeti</groupId>
   <artifactId>yeti-maven-plugin</artifactId>
   <versioning>
-    <latest>0.2-SNAPSHOT</latest>
+    <latest>0.3-SNAPSHOT</latest>
     <release>0.1-SNAPSHOT</release>
     <versions>
       <version>0.1-SNAPSHOT</version>
       <version>0.2-SNAPSHOT</version>
+      <version>0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121222072749</lastUpdated>
+    <lastUpdated>20130215102755</lastUpdated>
   </versioning>
 </metadata>
